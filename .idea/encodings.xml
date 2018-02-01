@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../testback" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../testback/testbackdao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../testback/testbackservice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../testback/testbackweb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../testportal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../testportal/testportaldao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../testportal/testportalservice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../testportal/testportalweb" charset="UTF-8" />
+  </component>
+</project>

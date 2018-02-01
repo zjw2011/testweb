@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="testbackdao" />
+        <module name="testbackservice" />
+        <module name="testbackweb" />
+        <module name="testportaldao" />
+        <module name="testportalservice" />
+        <module name="testportalweb" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hellomall" target="1.5" />
+      <module name="testback" target="1.5" />
+      <module name="testbackdao" target="1.5" />
+      <module name="testbackservice" target="1.5" />
+      <module name="testbackweb" target="1.5" />
+      <module name="testportal" target="1.5" />
+      <module name="testportaldao" target="1.5" />
+      <module name="testportalservice" target="1.5" />
+      <module name="testportalweb" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
