@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="testbackweb:war">
-    <output-path>$PROJECT_DIR$/../testback/testbackweb/target</output-path>
-    <root id="archive" name="testbackweb.war">
-      <element id="artifact" artifact-name="testbackweb:war exploded" />
-    </root>
-  </artifact>
-</component>
